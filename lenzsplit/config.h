@@ -28,7 +28,7 @@ Encoders
  */
  
 #define MASTER_LEFT
-#define SPLIT_USB_DETECT
+//#define SPLIT_USB_DETECT
 #define SOFT_SERIAL_PIN D1 // or D0
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
